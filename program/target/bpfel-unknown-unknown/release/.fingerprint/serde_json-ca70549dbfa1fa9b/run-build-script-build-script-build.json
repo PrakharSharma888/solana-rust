@@ -1,0 +1,1 @@
+{"rustc":17424618724053001979,"features":"","target":0,"profile":0,"path":0,"deps":[[850104003290259968,"build_script_build",false,10319122536221089640]],"local":[{"RerunIfChanged":{"output":"bpfel-unknown-unknown/release/build/serde_json-ca70549dbfa1fa9b/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
